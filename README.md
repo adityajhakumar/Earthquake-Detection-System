@@ -165,6 +165,4 @@ This project is licensed under the Apache License 2.0. Check out the [LICENSE](L
 
 Have questions or feedback? Feel free to reach out to me, [Aditya Kumar Jha](mailto:your.email@example.com). I’m here to help!
 
----
 
-Feel free to update any placeholders or links as needed. This version of the README provides a friendly and engaging overview of the project while ensuring that users have all the necessary information to get started.
