@@ -2,7 +2,7 @@
 
 # Earthquake Detection System 🌍🚨
 
-![Earthquake](https://www.researchgate.net/publication/359165452/figure/fig3/AS:1139015273193475@1648573811295/Example-implementation-of-an-Earthquake-Early-Warning-System-based-on-the-IoT-and-P-wave.ppm) 
+![Earthquake](img.jpg) 
 
 ## Overview
 
