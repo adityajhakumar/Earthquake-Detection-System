@@ -152,6 +152,8 @@ We use the following metrics to evaluate our models:
 - **F1 Score**: Balances precision and recall.
 - ![image](https://github.com/user-attachments/assets/d52151eb-e298-4183-92eb-36cc6383e90d)
 - <img width="370" alt="image" src="https://github.com/user-attachments/assets/11a93ae7-fdc0-4ef0-8c03-50f5a2cbf8c8">
+![image](https://github.com/user-attachments/assets/c99e7f59-aec6-42cf-b458-720df5998e8c)
+
 
 
 
