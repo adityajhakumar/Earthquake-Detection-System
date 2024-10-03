@@ -1,4 +1,4 @@
-Here’s an updated README file that includes detailed information about the Richter scale, the relationship between sensor readings and Richter scale values, and other relevant concepts. 
+
 
 ---
 
@@ -152,13 +152,3 @@ Validation Classification Report:
            1       0.99      1.00      1.00       299
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-### Notes
-- Ensure to replace placeholder values, such as file names or specific project details, as needed.
-- You can further enhance the README with sections on future work, acknowledgments, or references if applicable.
-
-Feel free to modify any sections or add any additional information that you think is important for your project!
